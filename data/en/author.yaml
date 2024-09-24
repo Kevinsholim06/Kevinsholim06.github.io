@@ -1,6 +1,6 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Sh0l1m"
+nickname: "Sh0l1m"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
@@ -14,8 +14,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Cybersecurity Analyst
+  - I am a ctf player
+
