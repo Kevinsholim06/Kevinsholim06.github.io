@@ -2,388 +2,390 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Kevinsholim06.github.io/notes/go/basic/</loc>
+    <loc>http://localhost:1313/notes/go/basic/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/basic/"
+                href="http://localhost:1313/bn/notes/go/basic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/basic/"
+                href="http://localhost:1313/notes/go/basic/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/basic/introduction/</loc>
+    <loc>http://localhost:1313/notes/go/basic/introduction/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/basic/introduction/"
+                href="http://localhost:1313/bn/notes/go/basic/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/basic/introduction/"
+                href="http://localhost:1313/notes/go/basic/introduction/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/advanced/</loc>
+    <loc>http://localhost:1313/notes/go/advanced/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/advanced/"
+                href="http://localhost:1313/bn/notes/go/advanced/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/advanced/"
+                href="http://localhost:1313/notes/go/advanced/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/basic/types/</loc>
+    <loc>http://localhost:1313/notes/go/basic/types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/basic/types/"
+                href="http://localhost:1313/bn/notes/go/basic/types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/basic/types/"
+                href="http://localhost:1313/notes/go/basic/types/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/basic/flow-control/</loc>
+    <loc>http://localhost:1313/notes/go/basic/flow-control/</loc>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/advanced/files/</loc>
+    <loc>http://localhost:1313/notes/go/advanced/files/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/advanced/files/"
+                href="http://localhost:1313/bn/notes/go/advanced/files/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/advanced/files/"
+                href="http://localhost:1313/notes/go/advanced/files/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/bash/basic/</loc>
+    <loc>http://localhost:1313/notes/bash/basic/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/bash/basic/"
+                href="http://localhost:1313/bn/notes/bash/basic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/bash/basic/"
+                href="http://localhost:1313/notes/bash/basic/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/search/"
+                href="http://localhost:1313/bn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/search/"
+                href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/tags/basic/</loc>
+    <loc>http://localhost:1313/tags/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/categories/basic/</loc>
+    <loc>http://localhost:1313/categories/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/categories/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Kevinsholim06.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://Kevinsholim06.github.io/tags/content-organization/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/introduction/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/introduction/"
+                href="http://localhost:1313/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/introduction/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/</loc>
+    <loc>http://localhost:1313/tags/content-organization/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/"
+                href="http://localhost:1313/bn/posts/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/"
+                href="http://localhost:1313/posts/introduction/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/markdown-sample/</loc>
+    <loc>http://localhost:1313/posts/markdown-sample/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/markdown-sample/"
+                href="http://localhost:1313/bn/posts/markdown-sample/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/markdown-sample/"
+                href="http://localhost:1313/posts/markdown-sample/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/tags/multi-lingual/</loc>
+    <loc>http://localhost:1313/tags/multi-lingual/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/category/sub-category/rich-content/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/category/sub-category/rich-content/"
+                href="http://localhost:1313/bn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/category/sub-category/rich-content/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/shortcodes/</loc>
+    <loc>http://localhost:1313/posts/category/sub-category/rich-content/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/shortcodes/"
+                href="http://localhost:1313/bn/posts/category/sub-category/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/shortcodes/"
+                href="http://localhost:1313/posts/category/sub-category/rich-content/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/category/sub-category/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/category/sub-category/"
+                href="http://localhost:1313/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/category/sub-category/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/shortcodes/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/tags/"
+                href="http://localhost:1313/bn/posts/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/tags/"
+                href="http://localhost:1313/posts/shortcodes/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/posts/category/</loc>
+    <loc>http://localhost:1313/posts/category/sub-category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/posts/category/"
+                href="http://localhost:1313/bn/posts/category/sub-category/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/posts/category/"
+                href="http://localhost:1313/posts/category/sub-category/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/posts/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/category/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/"
+                href="http://localhost:1313/bn/notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/"
+                href="http://localhost:1313/notes/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/search/"
+                href="http://localhost:1313/bn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/search/"
+                href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/bash/</loc>
+    <loc>http://localhost:1313/posts/obsidian_backup_and_sync/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/bash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/bash/"
+                href="http://localhost:1313/bn/notes/bash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/bash/"
+                href="http://localhost:1313/notes/bash/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/notes/go/</loc>
+    <loc>http://localhost:1313/notes/go/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/notes/go/"
+                href="http://localhost:1313/bn/notes/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/notes/go/"
+                href="http://localhost:1313/notes/go/"
                 />
   </url><url>
-    <loc>https://Kevinsholim06.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://Kevinsholim06.github.io/bn/search/"
+                href="http://localhost:1313/bn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Kevinsholim06.github.io/search/"
+                href="http://localhost:1313/search/"
                 />
   </url>
 </urlset>
